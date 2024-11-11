@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=Loja\ criarLoja(java.util.Scanner)
+comment3.params=scanner
+comment3.target=Produto\ criarProduto(java.util.Scanner)
+numComments=4
